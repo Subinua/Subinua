@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subinua.
-- 👀 I’m interested in Software Development on Computer.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Software Development with Java.
+- 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dcb20258@knou.ac.kr
 
