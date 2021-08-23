@@ -11,7 +11,7 @@ if (🖥️ === 🎮) {
   location.href = 'https://subinua.github.io/mydoc_about.html'
 }
 ```
-https://subinua.github.io
+https://subinua.github.io/about
 <!---
 Subinua/Subinua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
