@@ -6,6 +6,7 @@
 ### 👋👋👋
 ![Subinua's github stats](https://github-readme-stats.vercel.app/api?username=subinua&show_icons=true&count_private=true&theme=dark)  
 ![Subinua's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=subinua&exclude_repo=Subinua.github.io&theme=dark)  
+
 [블로그](https://subinua.github.io)
 ```js
 if (🖥️ === 🎮) {
